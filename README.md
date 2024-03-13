@@ -1,5 +1,8 @@
 # VELKOMMEN TIL TAMROTTER I DK GITHUB-SIDE
 Dette er en wiki-like side, hvor brugere kan rette og tilføje informationer om tamrottehold i Danmark.
+Den er ikke tilknyttet nogen forening.
+
+Formålet med siden her, er ene og alene at give samtlige tamrotte-entusiaster mulighed for, at samle relevante kilder og informationer omkring tamrottehold.
 
 ## Menu
 Mappen består af forskellige undersider, hvor temaer kan tilføjes. God fornøjelse!
